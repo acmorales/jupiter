@@ -1,2 +1,2 @@
 # jupiter
-AMEX hackathon project
+2016 AMEX hackathon project
